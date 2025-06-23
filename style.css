@@ -1,0 +1,353 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    display: flex;
+    width: 1440px;
+    height: 97.93565368652344px;
+    padding: 24px;
+    justify-content: space-between;
+
+
+}
+
+
+.lg {
+    width: 185px;
+    height: 49.93564987182617px;
+    margin-top: 24px;
+    margin-left: 170px;
+}
+
+.item {
+    width: 96px;
+    height: 21px;
+
+    margin-top: 24px;
+}
+
+.item2 {
+    width: 96px;
+    height: 21px;
+cursor: pointer;
+    margin-top: 24px;
+    color: rgba(222, 46, 84, 1);
+}
+
+.item3 {
+    font-family: Open Sans Condensed;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 24px;
+    width: 240px;
+    height: 47px;
+    border-radius: 8px;
+    border-width: 2px;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    color: rgba(222, 46, 84, 1);
+    border: 2px solid rgba(222, 46, 84, 1);
+
+}
+
+.section {
+    width: 1520px;
+    height: 650px;
+    top: 98px;
+    background-image: url("./8d77a05aae0b5a86186ed1ee3cd1a093fd90802f.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+
+}
+
+.image {
+    width: 423px;
+    height: 482.2836608886719px;
+    top: 148.72px;
+    left: 869px;
+    margin-left: 869px;
+    margin-top: 165px;
+
+}
+
+.text {
+    width: 700px;
+    height: 82.29444122314453px;
+    top: 235.8px;
+    left: 170px;
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    font-family: Open Sans Condensed;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    letter-spacing: 0px;
+    margin-top: 170px;
+    margin-top: 137px;
+
+
+}
+
+.item4 {
+    font-family: Open Sans Condensed;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 24px;
+    width: 240px;
+    height: 47px;
+    border-radius: 8px;
+    border-width: 2px;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    color: rgba(222, 46, 84, 1);
+    border: 2px solid rgba(222, 46, 84, 1);
+    position: absolute;
+    margin-left: -1120px;
+    margin-top: 369px;
+    background-color: rgba(222, 46, 84, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.main {
+    width: 1440px;
+    height: 816px;
+    top: 631px;
+    display: flex;
+    text-align: center;
+
+}
+
+.text2 {
+    margin-left: 653px;
+    margin-top: 24px;
+}
+
+
+.frame {
+    display: flex;
+    align-items: flex-start;
+    gap: 32px;
+    border-radius: 16px;
+    padding: 32px;
+    margin: 40px auto;
+    width: 900px;
+    position: relative;
+    margin-left: -588px;
+    margin-top: 200px;
+}
+
+.text4 {
+    width: 900px;
+    height: 100px;
+    margin: 0;
+    font-size: 16px;
+    color: #444;
+    font-family: 'Open Sans', sans-serif;
+
+    margin-top: 40px;
+}
+
+.frame-img {
+    width: 600px;
+    height: 209px;
+    gap: 24px;
+    border-radius: 40px;
+}
+
+
+.frame2 {
+    width: 155px;
+    height: 29px;
+    margin-top: -90px;
+    margin-left: 288px;
+
+}
+
+
+.text5 {
+    width: 230px;
+    height: 29px;
+
+}
+
+.text6 {
+    width: 600px;
+    height: 72px;
+    font-family: Open Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    margin-top: 24px;
+
+}
+
+.frame-img2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 24px;
+    margin-left: 652px;
+    margin-top: -200px;
+
+}
+
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0eb4c1;
+    padding: 80px 0;
+}
+
+.text7 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 100%;
+    color: #fff;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.contact-row {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 80px;
+    flex-wrap: wrap;
+    max-width: 1140px;
+    width: 100%;
+}
+
+.img4 iframe {
+    width: 513px;
+    height: 331px;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.contact-form {
+    background: #ffffff;
+    border-radius: 12px;
+ 
+    padding: 40px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-sizing: border-box;
+}
+
+.contact-form input {
+    padding: 14px 16px;
+    background: #f7f7f7;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #333;
+    border-radius: 8px;
+    border: 1.5px solid #e0e0e0;
+    transition: 0.2s;
+}
+
+.contact-form input:focus {
+    border-color: #2ec4b6;
+    background-color: #fff;
+}
+
+.contact-form button {
+    background-color: #3ddc97;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    border-radius: 8px;
+    padding: 14px 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact-form button:hover {
+    background-color: #28c286;
+}
+
+
+.foo {
+    display: flex;
+    width: 1521px;
+    height: 97.93565368652344px;
+    top: 2116px;
+    padding: 24px;
+    background-color: rgba(34, 34, 34, 1);
+
+
+}
+
+.fooimg {
+    height: auto;
+    margin-left: 170px;
+}
+
+.fo {
+    margin-top: 10px;
+    width: 96px;
+    height: 21px;
+    margin-left: 624px;
+    cursor: pointer;
+    font-family: Open Sans;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(222, 46, 84, 1);
+}
+
+.fa {
+    margin-top: 10px;
+    width: 96px;
+    height: 21px;
+    margin-left: 80px;
+    cursor: pointer;
+    font-family: Open Sans;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+
+.fr {
+    margin-top: 10px;
+    width: 96px;
+    height: 21px;
+    margin-left: 80px;
+    cursor: pointer;
+    font-family: Open Sans;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
